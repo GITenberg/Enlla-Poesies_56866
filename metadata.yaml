@@ -1,0 +1,28 @@
+_repo: Enlla-Poesies_56866
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Maragall, Joan
+    aliases:
+    - Gorina, Joan Maragall i
+    - Maragall i Gorina, Joan
+    - Maragall, Juan
+    birthdate: 1860
+    deathdate: 1911
+    gutenberg_agent_id: '46842'
+    url: http://www.gutenberg.org/2009/agents/46842
+description: ''
+gutenberg_issued: '2018-03-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56866'
+language: ca
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Catalan poetry'
+- !lcc 'PC'
+- GITenberg
+title: 'Enllà: Poesies'
+url: http://www.gutenberg.org/ebooks/56866
